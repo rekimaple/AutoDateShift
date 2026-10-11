@@ -1,0 +1,11 @@
+# 编译产物（通过 Release 分发，不进仓库）
+AutoDateShift.exe
+build.log
+
+# 本地数据与日志
+logs/
+*.user
+
+# 工作区内部文件
+.workbuddy/
+GitHub发布/
